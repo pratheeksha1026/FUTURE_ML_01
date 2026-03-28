@@ -18,21 +18,21 @@ This project helps in:
 - What is the future sales trend?
 
   📊 Features
-- ✅ Data cleaning and preprocessing
-- ✅ KPI summary (sales, profit, margin)
-- ✅ Category contribution analysis
-- ✅ Region profitability analysis
-- ✅ Monthly sales trend
-- ✅ Profit margin by category
-- ✅ Sales vs profit visualization
-- ✅ Top products analysis
-- ✅ Customer spending distribution
-- ✅ Sub-category profit analysis
-- ✅ Loss-making product detection
-- ✅ 12-month sales forecasting using Prophet
-- ✅ Actual vs forecast comparison
-- ✅ Business insights and recommendations
-- ✅ Export cleaned and forecast CSV files
+-  Data cleaning and preprocessing
+-  KPI summary (sales, profit, margin)
+-  Category contribution analysis
+-  Region profitability analysis
+-  Monthly sales trend
+-  Profit margin by category
+-  Sales vs profit visualization
+-  Top products analysis
+-  Customer spending distribution
+-  Sub-category profit analysis
+-  Loss-making product detection
+-  12-month sales forecasting using Prophet
+-  Actual vs forecast comparison
+-  Business insights and recommendations
+-  Export cleaned and forecast CSV files
 
  🛠️ Tech Stack
 - Python

@@ -5,6 +5,7 @@ This project is a Python-based retail sales analytics and forecasting system bui
 
 The main goal is to analyze historical Superstore sales data, identify key business insights, detect loss-making products, and forecast the next 12 months of sales.
 
+
 This project helps in:
 - understanding sales performance
 - improving profitability
@@ -12,11 +13,13 @@ This project helps in:
 - predicting future business growth
 
 
+
  🎯 Business Questions Solved
 - Which category drives the most revenue?
 - Which region is the most profitable?
 - Which products are loss-making?
 - What is the future sales trend?
+
 
 
  📊 Features
@@ -37,6 +40,7 @@ This project helps in:
 -  Export cleaned and forecast CSV files
 
 
+
 🛠️ Tech Stack
 - Python
 - Pandas
@@ -45,11 +49,13 @@ This project helps in:
 - Prophet
 
 
+
 ▶️ How to Run
 Install dependencies:
 pip install -r requirements.txt
 Run the script:
 python sales.py
+
 
 
  📈 Output
@@ -63,6 +69,7 @@ The project generates:
 -  12-month forecast graph
 
 
+
  📌 Key Insights
 - High sales come from top-performing categories
 - Some products generate consistent losses
@@ -71,12 +78,14 @@ The project generates:
 - Future sales expected to grow steadily
 
 
+
 💡 Business Recommendations
 - Reduce discounts on loss-making products
 - Focus on high-margin categories
 - Improve low-performing regions
 - Increase focus on top-selling products
 - Use forecast trends for inventory planning
+
 
 
  👩‍💻 Author

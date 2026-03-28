@@ -11,13 +11,15 @@ This project helps in:
 - analyzing regional trends
 - predicting future business growth
 
+
  🎯 Business Questions Solved
 - Which category drives the most revenue?
 - Which region is the most profitable?
 - Which products are loss-making?
 - What is the future sales trend?
 
-  📊 Features
+
+ 📊 Features
 -  Data cleaning and preprocessing
 -  KPI summary (sales, profit, margin)
 -  Category contribution analysis
@@ -34,18 +36,21 @@ This project helps in:
 -  Business insights and recommendations
 -  Export cleaned and forecast CSV files
 
- 🛠️ Tech Stack
+
+🛠️ Tech Stack
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - Prophet
 
+
 ▶️ How to Run
 Install dependencies:
 pip install -r requirements.txt
 Run the script:
 python sales.py
+
 
  📈 Output
 The project generates:
@@ -57,6 +62,7 @@ The project generates:
 - loss analysis
 -  12-month forecast graph
 
+
  📌 Key Insights
 - High sales come from top-performing categories
 - Some products generate consistent losses
@@ -64,12 +70,14 @@ The project generates:
 - Sales show seasonal patterns
 - Future sales expected to grow steadily
 
+
 💡 Business Recommendations
 - Reduce discounts on loss-making products
 - Focus on high-margin categories
 - Improve low-performing regions
 - Increase focus on top-selling products
 - Use forecast trends for inventory planning
+
 
  👩‍💻 Author
 Pratheeksha  
